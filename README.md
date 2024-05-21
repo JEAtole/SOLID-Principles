@@ -58,3 +58,4 @@ Improve the following codes to implement SOLID principles in OOP.
 
 ## Class Diagram
 
+![solidPrinciples_Class Diagram](https://github.com/JEAtole/SOLID-Principles/assets/126703958/d3fd9302-3235-42e2-99a5-e32ec740acd5)
